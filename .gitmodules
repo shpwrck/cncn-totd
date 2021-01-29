@@ -1,0 +1,3 @@
+[submodule "docker-hub-rate-limit-exporter"]
+	path = docker-hub-rate-limit-exporter
+	url = https://github.com/shpwrck/docker-hub-rate-limit-exporter
