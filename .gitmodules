@@ -1,6 +1,15 @@
-[submodule "docker-hub-rate-limit-exporter"]
-	path = docker-hub-rate-limit-exporter
-	url = https://github.com/shpwrck/docker-hub-rate-limit-exporter
-[submodule "k8s-await-election"]
-	path = k8s-await-election
+[submodule "episode_0000/k8s-await-election"]
+	path = episode_0000/k8s-await-election
 	url = git@github.com:shpwrck/k8s-await-election.git
+[submodule "dhrle"]
+	path = episode_0001/docker-hub-rate-limit-exporter
+	url = git@github.com:shpwrck/docker-hub-rate-limit-exporter.git
+[submodule "episode_0002/krew-index"]
+	path = episode_0002/krew-index
+	url = git@github.com:shpwrck/krew-index.git
+[submodule "episode_0002/kubectl-blame"]
+	path = episode_0002/kubectl-blame
+	url = git@github.com:shpwrck/kubectl-blame.git
+[submodule "episode_0002/k8s-mirror"]
+	path = episode_0002/k8s-mirror
+	url = git@github.com:shpwrck/k8s-mirror.git
