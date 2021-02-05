@@ -13,3 +13,6 @@
 [submodule "episode_0002/k8s-mirror"]
 	path = episode_0002/k8s-mirror
 	url = git@github.com:shpwrck/k8s-mirror.git
+[submodule "episode_0002/kubectl-honk"]
+	path = episode_0002/kubectl-honk
+	url = git@github.com:shpwrck/kubectl-honk.git
