@@ -16,3 +16,9 @@
 [submodule "episode_0002/kubectl-honk"]
 	path = episode_0002/kubectl-honk
 	url = git@github.com:shpwrck/kubectl-honk.git
+[submodule "episode_0003/IAKV"]
+	path = episode_0003/IAKV
+	url = https://github.com/shpwrck/IAKV
+[submodule "episode_0000/nixery"]
+	path = episode_0000/nixery
+	url = git@github.com:shpwrck/nixery.git
